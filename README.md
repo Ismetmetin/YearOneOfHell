@@ -1,3 +1,4 @@
 # YearOneOfHell
-kato cqlo fmi
+izbrani materiali za sledvashti kursvoe s nadejdata da ne stradat tolkova.
+
 
