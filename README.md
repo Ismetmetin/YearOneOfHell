@@ -1,4 +1,3 @@
 # YearOneOfHell
-izbrani materiali za sledvashti kursvoe s nadejdata da ne stradat tolkova.
 
-
+materiali za fmi 1 kurs compsci koito sym nameril/napravil
