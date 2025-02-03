@@ -3,6 +3,9 @@
 
 
 
+задачи подобни на сесията за КН:
+https://store.fmi.uni-sofia.bg/fmi/algebra/kn-exams.shtml
+
 videos to watch:
 Плейлиста с линейна алгебра на 3blue1brown помага с визуализирането въпреки че не се решават задачи,
 KhanAcademy помагат с някои базови решения

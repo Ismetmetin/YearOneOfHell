@@ -55,7 +55,6 @@ int toInt(char *str)
 {
     if (str == nullptr || str == "")
         return 0;
-
     // 0-9 char to int 48-57
 
     int result = 0;
