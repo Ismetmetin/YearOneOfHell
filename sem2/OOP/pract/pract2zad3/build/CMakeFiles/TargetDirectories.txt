@@ -1,0 +1,6 @@
+/home/ismet/smurtenKofcheg/YearOneOfHell/sem2/OOP/pract/pract2zad3/build/CMakeFiles/proj.dir
+/home/ismet/smurtenKofcheg/YearOneOfHell/sem2/OOP/pract/pract2zad3/build/CMakeFiles/edit_cache.dir
+/home/ismet/smurtenKofcheg/YearOneOfHell/sem2/OOP/pract/pract2zad3/build/CMakeFiles/rebuild_cache.dir
+/home/ismet/smurtenKofcheg/YearOneOfHell/sem2/OOP/pract/pract2zad3/build/lib/CMakeFiles/mathlib.dir
+/home/ismet/smurtenKofcheg/YearOneOfHell/sem2/OOP/pract/pract2zad3/build/lib/CMakeFiles/edit_cache.dir
+/home/ismet/smurtenKofcheg/YearOneOfHell/sem2/OOP/pract/pract2zad3/build/lib/CMakeFiles/rebuild_cache.dir

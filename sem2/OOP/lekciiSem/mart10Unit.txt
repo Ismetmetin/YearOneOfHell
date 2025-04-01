@@ -1,0 +1,4 @@
+semerdjiev pita ma koi ezici sme vijdali unit testove ako izobsto sme
+semerdjiiev preporucha knigata thinking fast and slow daniel kahneman
+
+za kakvo se polzvat unit testove:
