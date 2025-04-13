@@ -2,8 +2,8 @@ class Stack
 {
     struct Node
     {
-        char* name;
-        int age;
+        // char* name;
+        // int age;
         Node* next;
     };
 
@@ -59,8 +59,3 @@ public:
     
 
 };
-
-
-
-
-
